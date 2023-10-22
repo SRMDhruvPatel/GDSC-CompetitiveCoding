@@ -1,6 +1,7 @@
 # GDSC-CompetitiveCoding
 GDSC SRMRMP Recruitment Task
 There are 2 files for GDSC SRM Ramapuram Technical Task 6-Competitive Programming
+
 1st file(gdsccomp1.c) is of
 
     Question 1: Given a string s consisting of words and spaces, return the length of the last word in the string.
