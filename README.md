@@ -2,6 +2,7 @@
 GDSC SRMRMP Recruitment Task
 There are 2 files for GDSC SRM Ramapuram Technical Task 6-Competitive Programming
 1st file(gdsccomp1.c) is of
+
     Question 1: Given a string s consisting of words and spaces, return the length of the last word in the string.
                 A word is a maximal substring consisting of non-space characters only.
     Example 1:
@@ -18,6 +19,8 @@ There are 2 files for GDSC SRM Ramapuram Technical Task 6-Competitive Programmin
       There will be at least one word in s.
 
 2nd file(gdsccomp2.c) is of
+
+
     Question 2:Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b],                   nums[c], nums[d]] such that:
                                   0 <= a, b, c, d < n
                                   a, b, c, and d are distinct.
